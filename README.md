@@ -3,7 +3,7 @@
 - FACEBOOK_ID = 
 - FACEBOOK_SECRET_KEY = 
 
-https://developers.facebook.com/ click on this link and creat application and get app_id and app_secret key and demo is working
+https://developers.facebook.com/ click on this link and create application and get app_id and app_secret key and demo is working
 
 
 
